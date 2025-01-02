@@ -1,0 +1,14 @@
+[
+  {
+    "nama": "Player_6289505624515",
+    "id": "6289505624515",
+    "titel": "Pemula",
+    "level": 1,
+    "exp": 0,
+    "health": 100,
+    "maxhealth": 100,
+    "saldo": 10000,
+    "pet": null,
+    "inv": []
+  }
+]
