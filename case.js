@@ -3441,7 +3441,7 @@ showAdAttribution: true,
 title: `Owner Bot`, 
 body: `Info Dari Owner`, 
 sourceUrl: 'https://music.youtube.com/playlist?list=PLYApgpZSQBgUHJsW0NFgCJVxwRI0fC1SR',
-thumbnailUrl: 'https://telegra.ph/file/1711cf5370bcf6d1db9f1.jpg',
+thumbnailUrl: 'https://files.catbox.moe/1s6lq7.jpg',
 }
 }
 },
@@ -3474,7 +3474,7 @@ showAdAttribution: true,
 title: `Owner Bot`, 
 body: `Info Dari Owner`, 
 sourceUrl: 'https://music.youtube.com/playlist?list=PLYApgpZSQBgUHJsW0NFgCJVxwRI0fC1SR',
-thumbnailUrl: 'https://telegra.ph/file/1711cf5370bcf6d1db9f1.jpg',
+thumbnailUrl: 'https://files.catbox.moe/1s6lq7.jpg',
 }
 },
 })
@@ -3571,10 +3571,11 @@ newsletterNe: `${global.botname2}`
 },
 externalAdReply: {
 showAdAttribution: true,
-title: `[🎶] - ${bjirrwoila}`, 
+title: `[🎶] • ${bjirrwoila}`, 
 body: `Request by ${ngawi}`, 
 sourceUrl: 'https://music.youtube.com/playlist?list=PLYApgpZSQBgUHJsW0NFgCJVxwRI0fC1SR',
-thumbnailUrl: 'https://telegra.ph/file/1711cf5370bcf6d1db9f1.jpg',
+/*thumbnailUrl: 'https://telegra.ph/file/ad917a9aa377a002cb1c7.jpg',*/
+thumbnailUrl: 'https://files.catbox.moe/1s6lq7.jpg',
 }
 }
 })
@@ -3608,10 +3609,10 @@ newsletterNe: `${global.botname2}`
 },
 externalAdReply: {
 showAdAttribution: true,
-title: `[🎶] - ${namalagu}`, 
+title: `[🎶] • ${namalagu}`, 
 body: `Request by ${requestorang}`, 
 sourceUrl: 'https://music.youtube.com/playlist?list=PLYApgpZSQBgUHJsW0NFgCJVxwRI0fC1SR',
-thumbnailUrl: 'https://telegra.ph/file/1711cf5370bcf6d1db9f1.jpg',
+thumbnailUrl: 'https://files.catbox.moe/1s6lq7.jpg',
 }
 }
 })
